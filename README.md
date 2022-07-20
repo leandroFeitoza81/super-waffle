@@ -1,2 +1,2 @@
-# super-waffle
-Repositorio para tutorial Git/GitHub
+Repositório crado para o tutorial de git e GitHub!
+leandro
