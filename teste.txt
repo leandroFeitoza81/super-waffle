@@ -10,3 +10,5 @@ pull is a combination of 2 different commands:
     merge
 
 Let's take a closer look into how fetch, merge, and pull works.
+
+Mais uma linha alterada no arquivo.
